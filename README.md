@@ -1,6 +1,7 @@
 # ShellStack 
 #### Version 1.0
 #### Coded By Ranger Exploit Community
+#### Web Site https://ranger-exploit.com/
 ----
 ShellStack is a PHP based backdoor management tool. This Tool comes handy for "HACKERS" who wish to keep a track of every website they hack. The tool generates a backdoor file which you just have to upload to the site and put the backdoor URL in the shells.txt present in the tool's directory.
 
@@ -122,4 +123,4 @@ root@RANGER:/home/redhaxor/Desktop/shellstack#
 
 # screenshots
 <img src="https://image.ibb.co/hHKwUk/Screenshot_1.png" /><!-- Let github take care of the style :) -->
-<img src="http://i68.tinypic.com/199l6a.png" /><!-- Let github take care of the style :) -->
+<img src="https://image.ibb.co/f3vaN5/Screenshot_2.png" /><!-- Let github take care of the style :) -->
