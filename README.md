@@ -121,6 +121,5 @@ root@RANGER:/home/redhaxor/Desktop/shellstack#
 > Version 1.0 On 14-06-2017
 
 # screenshots
-
-![Alt text](http://i64.tinypic.com/25upb29.png "Screenshot")
-![Alt text](hhttp://i68.tinypic.com/199l6a.png "Screenshot")
+(http://i64.tinypic.com/25upb29.png "Screenshot")
+(hhttp://i68.tinypic.com/199l6a.png "Screenshot")
