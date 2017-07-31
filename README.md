@@ -121,5 +121,5 @@ root@RANGER:/home/redhaxor/Desktop/shellstack#
 > Version 1.0 On 14-06-2017
 
 # screenshots
-<img src="http://oi68.tinypic.com/2mybzo3.jpg"
-<img src="http://oi64.tinypic.com/2yycs1t.jpg"
+<img src="http://oi68.tinypic.com/2mybzo3.jpg" /><!-- Let github take care of the style :) -->
+<img src="http://oi64.tinypic.com/2yycs1t.jpg" /><!-- Let github take care of the style :) -->
