@@ -122,4 +122,4 @@ root@RANGER:/home/redhaxor/Desktop/shellstack#
 
 # screenshots
 <img src="http://oi68.tinypic.com/2mybzo3.jpg" /><!-- Let github take care of the style :) -->
-<img src="http://oi64.tinypic.com/2yycs1t.jpg" /><!-- Let github take care of the style :) -->
+<img src="http://i68.tinypic.com/199l6a.png" /><!-- Let github take care of the style :) -->
